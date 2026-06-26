@@ -1,0 +1,6 @@
+{
+  "name": "DeadlineOS",
+  "description": "An AI-powered task manager that helps students and professionals never miss deadlines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
