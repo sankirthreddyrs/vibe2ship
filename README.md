@@ -6,8 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/2103c312-825a-42b8-bdae-d08f6f25ddb6
-
+app link : https://deadlineos-345355045660.asia-southeast1.run.app
 ## Run Locally
 
 **Prerequisites:**  Node.js
